@@ -16,7 +16,7 @@ var fr = 5;
 var img;
 
 function preload() {
-  let ran = int(random(8));
+  let ran = int(random(6));
   let fileName = "work" + ran + ".jpg";
   img = loadImage(fileName);
 }
