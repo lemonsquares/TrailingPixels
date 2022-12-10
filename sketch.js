@@ -22,11 +22,9 @@ function preload() {
 }
 
 function setup() {
-
+  createCanvas(cWidth, cHeight);
   // calls our framerate var fr and adjusts the framerate
   frameRate(fr);
-
-  createCanvas(cWidth, cHeight);
   pixelDensity(pDensity);
 
   pWidth = 4 * cWidth * pDensity;
