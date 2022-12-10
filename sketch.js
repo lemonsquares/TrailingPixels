@@ -10,7 +10,7 @@ var pWidth;
 var pHeight;
 
 // framerate of the canvas. Normal rate is about 30. Set to a lower rate to slow canvas. 
-var fr = 20;
+var fr = 5;
 
 // cycles randomly through images and changes image per refresh
 var img;
