@@ -1,6 +1,6 @@
 //the size of the canvas
-var cWidth = 1000;
-var cHeight = 1000;
+var cWidth = 900;
+var cHeight = 900;
 
 //the pixel density
 var pDensity = 0.5;
@@ -10,7 +10,7 @@ var pWidth;
 var pHeight;
 
 // framerate of the canvas. Normal rate is about 30. Set to a lower rate to slow canvas. 
-var fr = 2;
+var fr = 20;
 
 // cycles randomly through images and changes image per refresh
 var img;
