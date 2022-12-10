@@ -1,6 +1,6 @@
 //the size of the canvas
-var cWidth = 5000;
-var cHeight = 5000;
+var cWidth = 1000;
+var cHeight = 1000;
 
 //the pixel density
 var pDensity = 0.5;
